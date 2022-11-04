@@ -1,14 +1,15 @@
 # Codewars
 
-This is my personal repository to resolve Codewars katas
+This is my personal repo for solving Codewars katas
 
 ## How to use
 
-1. Clone this repository
-2. Install dependencies with `npm install`
-3. Change the branch to the kata you want to see the solution
-4. Enter in the folder of the kata you want to see the solution
-5. Run the tests with `npm test`
+1. Fork this repo to your own account
+2. Clone your forked repo to your local machine
+3. Install dependencies with `npm install`
+4. Create a new branch for each kata you want to solve
+5. Create the tests for the kata
+6. Solve the kata
 
 ## Specifications
 
