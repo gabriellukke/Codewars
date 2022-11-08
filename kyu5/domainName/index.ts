@@ -1,3 +1,3 @@
 export function domainName(url: string): string {
-  return 'null';
+  return url.replace(/(https?:\/\/)?(www\.)?/, '').split('.')[0];
 }
