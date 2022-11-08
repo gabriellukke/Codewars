@@ -1,6 +1,6 @@
-# Codewars
+# Codewars JS/TS
 
-This is my personal repo for solving Codewars katas
+This is my personal repo for solving Codewars katas in Javascript/Typescript
 
 ## How to use
 
