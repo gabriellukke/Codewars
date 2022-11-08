@@ -1,4 +1,4 @@
-export function romaNumerals(roman: string): number {
+export function romanNumerals(roman: string): number {
   const romanNumerals = {
     I: 1,
     V: 5,
